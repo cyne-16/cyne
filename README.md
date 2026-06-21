@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Software+Developer;BSIT+Student;AI+Enthusiast;Full-Stack+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Software+Developer;BSIT+Student;AI+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
